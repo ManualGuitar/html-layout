@@ -1,0 +1,58 @@
+.grayHeader {
+width: 100vw;
+height: 10vh;
+background-color: lightgray;
+padding: 5px;
+}
+
+.blueHeader {
+    width: 70px;
+    height: 70px;
+    background-color: rgb(0, 154, 214);
+    margin-left: 10px;
+    /* margin-top: 10px; */
+
+}
+
+.textBox {
+    width: 100vw;
+    height: 30vh;
+    margin-top: 50px;
+    background-color: white;
+
+}
+
+.text {
+    padding: 2.5%;
+    font-size: x-large;
+
+}
+
+.bottomColors {
+height: 60vh;
+width: 100vw;
+}
+
+.bottomBlue {
+height: 15vh;
+width: 100vw;
+background-color: rgb(0, 154, 214);
+}
+
+.bottomGreen {
+    height: 15vh;
+    width: 100vw;
+    background-color: turquoise;
+}
+
+.bottomYellowGreen {
+    height: 15vh;
+    width: 100vw;
+    background-color: yellowgreen;
+}
+
+.bottomYellow {
+    height: 15vh;
+    width: 100vw;
+    background-color: gold;
+}
